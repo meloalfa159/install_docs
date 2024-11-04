@@ -1,13 +1,13 @@
 ### Pre-installation:
 
-* Make sure you have latest firmware available [here](https://xmfirmwareupdater.com/firmware/courbet/) for your country.
-* Gapps package (optional) [here](https://sourceforge.net/projects/crdroid/files/gapps)
-* Orangefox recovery zip [here](https://t.me/melo159roms/177)
+* Make sure you have latest firmware available for your country (from download page, firmware button).
+* Gapps package (optional) (from download page, gapps button)
+* Recovery (from download page, recovery button)
 * A pc with platform-tools working (adb/fastboot)
 
 ### First time installation (clean flash):
 
-* Flash Orangefox recovery with the custom recovery you already have and reboot to it
+* Flash recovery with the custom recovery you already have and reboot to it
 * Format data (typing "yes" to remove everything included encryption)
 * Enable sideloading in recovery settings
 * Sideload crdroid.zip
